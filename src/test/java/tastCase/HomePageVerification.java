@@ -8,6 +8,8 @@ public class HomePageVerification extends Base{
 		startUp();
 		navigate("https://it.microtechlimited.com/index.html");
 		assertion("//h1[text()='Welcome to MicroTech NA.']","Welcome to MicroTech NA.");
+		
+		System.out.println("Hello gitHub");
 
 	}
 
