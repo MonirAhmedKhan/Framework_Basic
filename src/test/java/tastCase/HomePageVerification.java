@@ -10,6 +10,8 @@ public class HomePageVerification extends Base{
 		assertion("//h1[text()='Welcome to MicroTech NA.']","Welcome to MicroTech NA.");
 		
 		System.out.println("Hello gitHub");
+		System.out.println("Hello Monir");
+	
 
 	}
 
